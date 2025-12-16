@@ -1,7 +1,11 @@
 # INFORMACOES DO ALUNO:
+
 NOME: Ana Claudia Custodio de Paula
+
 CURSO: Licenciatura em Couputacao
+
 DISCIPLINA: Linguagem de Programacao
+
 2° PERIODO
 
 # LinguagemProgramacao1
