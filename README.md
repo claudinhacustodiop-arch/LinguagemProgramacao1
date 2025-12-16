@@ -1,3 +1,9 @@
+# INFORMACOES DO ALUNO:
+NOME: Ana Claudia Custodio de Paula
+CURSO: Licenciatura em Couputacao
+DISCIPLINA: Linguagem de Programacao
+2° PERIODO
+
 # LinguagemProgramacao1
 No README.md, compartilhei o que espero aprender sobre Pascal e GitHub.
 
