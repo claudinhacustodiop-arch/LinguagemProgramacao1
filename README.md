@@ -2,7 +2,7 @@
 
 NOME: Ana Claudia Custodio de Paula
 
-CURSO: Licenciatura em Couputacao
+CURSO: Licenciatura em Computacao
 
 DISCIPLINA: Linguagem de Programacao
 
